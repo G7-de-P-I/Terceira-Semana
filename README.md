@@ -1,2 +1,2 @@
-# Terceira-Semana
-códigos e relatórios com as devidas checagens e testagens
+
+PROJETO SOBRE SUSTENTABILIDADE DETALHES DE AÇÕES E LINHA DO TEMPO: trello -> https://trello.com/b/6ehpMETL/projeto-de-pi
